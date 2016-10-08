@@ -1,0 +1,37 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 50px 0;
+}
+
+header h1 {
+  font-family: 'Lobster', cursive;
+  margin: 0 50px;
+  position: relative;
+  bottom: 25px;
+}
+
+
+
+.nav li .glyphicon{
+  margin: 0 10px 0 0;
+}
+
+.nav a {
+  color: black;
+}
+
+.nav .active a{
+  color: #3c763d !important;
+}
+
+#about img {
+  height: 110px
+}
+
+#portfolio img {
+  height: 230px;
+}
+
+#portfolio .caption {
+  font-style: oblique;
+}
